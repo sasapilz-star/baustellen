@@ -1,0 +1,30 @@
+{
+  "name": "Baustellen",
+  "short_name": "Baustellen",
+  "description": "Baustellen, Projekte, Aufgaben und Stunden – auch ohne Netz.",
+  "lang": "de",
+  "start_url": "/baustellen/",
+  "scope": "/baustellen/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F6F8",
+  "theme_color": "#0F6BB8",
+  "icons": [
+    {
+      "src": "/baustellen/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/baustellen/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/baustellen/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
