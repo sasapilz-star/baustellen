@@ -1,8 +1,8 @@
 // Automatisch erzeugt von scripts/web-bauen.js – nicht von Hand ändern.
-const CACHE = "baustellen-0.3.0-f4b09c4a276d";
+const CACHE = "baustellen-0.4.0-3245f51e1a5a";
 const BASIS = "/baustellen";
 const DATEIEN = [
- "/baustellen/_expo/static/js/web/entry-c9227ec6789cdda0fe025cf453604c80.js",
+ "/baustellen/_expo/static/js/web/entry-ba0f2e67d94e260e6aaf0501fcd368f8.js",
  "/baustellen/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.b4eb097d35f44ed943676fd56f6bdc51.ttf",
  "/baustellen/assets/node_modules/expo-router/assets/arrow_down.017bc6ba3fc25503e5eb5e53826d48a8.png",
  "/baustellen/assets/node_modules/expo-router/assets/error.d1ea1496f9057eb392d5bbf3732a61b7.png",
